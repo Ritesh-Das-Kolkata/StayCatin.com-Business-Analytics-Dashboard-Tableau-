@@ -25,9 +25,6 @@ Tableau Story with narrative business insights.
 - Data Visualization & Dashboard Design
 - Business Analytics & Storytelling
 
-## Live Dashboard
-[View on Tableau Public](#) ← add your link here
-
 ## Files
 | File | Description |
 |------|-------------|
